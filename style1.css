@@ -1,0 +1,347 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
+
+/* Root Variables */
+:root {
+    --primary-color: #007BFF;
+    --secondary-color: #0056b3;
+    --background-color: #222;
+    --text-color: #fff;
+    --card-bg: #ffcc00;
+    --btn-hover: #0056b3;
+}
+body {
+    background: maroon; /* Sky gradient */
+}
+
+
+
+.card{
+    width: 700px;
+    margin: 15px auto;
+    padding: 30px;
+     background: linear-gradient(to bottom, #87CEEB, #f0f8ff);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 50px;
+    height: 200vh;
+
+
+}
+
+.card2{
+    width: 700px;
+    margin: 15px auto;
+    padding: 30px;
+    background: white;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 50px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-item: center;
+
+
+}
+
+.body{
+  background-color: white;
+  background-image: linear-gradiant(rgba)0, 0, 0, 0.1)
+  1px, transparent 1px),
+                      linear-gradiant(90deg, rgba(0, 0, 0, 0.1) 1px, transparent 1px);
+                      background-size: 20px 20px;
+
+}
+
+.kim{
+   width: 300px;
+   height: 1300px;
+   background: #FAFAD2;
+   display: flex;
+   border-radius: 30px;
+   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+   border: 2px solid brown;
+
+
+
+}
+.kim1{
+padding: 10px 20px;
+
+
+}
+
+.text{
+     top: 100px;
+     height: 100px;
+     right: 200px;
+     background:;
+     width: 300px;
+     left: 50px;
+     margin-top: 20px;
+     margin-right: px;
+
+
+}
+
+.picture{
+        margin-top: 100px;
+         border-radius: 30px;
+         width: 200px;
+         left: 130px;
+}
+.button {
+    display: inline-block;
+    padding: 15px 25px;
+    color: white;
+    background: brown;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: bold;
+    height: vh;
+
+}
+.kard{
+    background-color: ;
+    position: absolute;
+    top: 1200px;
+    left: 115px;
+}
+.kard1{
+    position: absolute;
+    top: 1170px;
+    left: 110px;
+
+
+}
+.kard2{
+    position: absolute;
+    top: 1150px;
+    left: 120px;
+
+}
+.kim22{
+    width: 855px;
+    padding: 20px;
+    border-radius: 30px;
+    height: 150vh;
+    background: white;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border: 2px solid brown;
+
+
+}
+.kim23{
+ position: absolute;
+ left: 355px;
+ right: 500px;
+
+ }
+ .picture1{
+        margin-top: 100px;
+         border-radius: 30px;
+         width: 200px;
+         left: 500px;
+  }
+  .text1{
+  position: absolute;
+   top: 1090px;
+   left: 400px;
+    width: 895px;
+     height: 260px;
+     border-radius: 30px;
+
+}
+.text2{
+  position: absolute;
+   top: 15px;
+   left: 30px;
+    width: 895px;
+     height: 260px;
+     border-radius: 30px;
+}
+.button2{
+  position: absolute;
+   top: 1200px;
+   left: 450px;
+    width: 895px;
+     height: 260px;
+     border-radius: 30px;
+
+}
+.buttond {
+    display: inline-block;
+    padding: 15px 25px;
+    color: white;
+    background: brown;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: bold;
+    height: vh;
+
+}
+.text3{
+  position: absolute;
+   top: 15px;
+   left: 350px;
+    width: 150px;
+     height: 260px;
+     border-radius: 30px;
+
+}
+.text4{
+  position: absolute;
+   top: 50px;
+   left: 70px;
+    width: 500px;
+     height: 260px;
+     border-radius: 30px;
+}
+.element{
+  position: absolute;
+   top: 50px;
+   left: 400px;
+    width: 1px;
+     height: 930px;
+     border-radius: 30px;
+     background: black;
+}
+.text5{
+  position: absolute;
+   top: 150px;
+   left: 425px;
+    width: 500px;
+     height: px;
+     border-radius: 30px;
+}
+.text6{
+  position: absolute;
+   top: 275px;
+   left: 425px;
+    width: 500px;
+     height: px;
+     border-radius: 30px;
+}
+.text7{
+  position: absolute;
+   top: 440px;
+   left: 425px;
+    width: 500px;
+     height: px;
+     border-radius: 30px;
+}
+.text8{
+  position: absolute;
+   top: 570px;
+   left: 425px;
+    width: 500px;
+     height: px;
+     border-radius: 30px;
+}
+.text9{
+  position: absolute;
+   top: 685px;
+   left: 425px;
+    width: 500px;
+     height: px;
+     border-radius: 30px;
+}
+.text10{
+  position: absolute;
+   top: 810px;
+   left: 425px;
+    width: 500px;
+     height: px;
+     border-radius: 30px;
+}
+.text11{
+  position: absolute;
+   top: 860px;
+   left: 425px;
+    width: 500px;
+     height: px;
+     border-radius: 30px;
+}
+.text12{
+  position: absolute;
+   top: 890px;
+   left: 548px;
+    width: 500px;
+     height: px;
+     border-radius: 30px;
+}
+.text13{
+  position: absolute;
+   top: 920px;
+   left: 548px;
+    width: 500px;
+     height: px;
+     border-radius: 30px;
+}
+.text14{
+  position: absolute;
+   top: 950px;
+   left: 548px;
+    width: 500px;
+     height: px;
+     border-radius: 30px;
+}
+.text15{
+  position: absolute;
+   top: 980px;
+   left: 548px;
+    width: 500px;
+     height: px;
+     border-radius: 30px;
+}
+.text16{
+  position: absolute;
+   top:190px;
+
+    width: 400px;
+
+}
+.kim30{
+    position: absolute;
+    border-radius: 30px;
+    height: 260px;
+    background: ;
+    border: ;
+    top: 170px;
+    width: 895px;
+    left: 270px;
+
+}
+.kim31{
+    position: absolute;
+    border-radius: 30px;
+    height: 260px;
+    background: white;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border: 2px solid brown;
+    top: 266px;
+    width: 895px;
+    left: -1px;
+
+}
+.button5{
+  position: absolute;
+   top: 160px;
+   left: 75px;
+    width: 1000px;
+     height: 260px;
+     border-radius: 30px;
+
+ }
+
+     .buttoned {
+    display: inline-block;
+    padding: 15px 25px;
+    color: white;
+    background: brown;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: bold;
+    height: vh;
+     width: 1000px;
+
+}
